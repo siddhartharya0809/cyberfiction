@@ -14,7 +14,7 @@ CyberFiction is a virtual space that aims to be a decentralized community foster
 
 ## Getting Started
 
-To view the website, simply visit the [live CyberFiction website](https://siddhartharya0809.github.io/cyberfiction/) and explore the CyberFiction world.
+To view the website, simply visit the [live CyberFiction website](https://cyberfiction-clone-project.vercel.app/) and explore the CyberFiction world.
 
 ## Project Structure
 
